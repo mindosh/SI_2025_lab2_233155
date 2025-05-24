@@ -7,7 +7,8 @@
 
 Control Flow Graph:
 
-![image](https://github.com/user-attachments/assets/c8b2fb46-10c4-4732-a128-fa91f61e0425)
+![image](https://github.com/user-attachments/assets/0cb8bd25-3989-44e8-93fd-fa3ff387e3b6)
+
 
 
 
